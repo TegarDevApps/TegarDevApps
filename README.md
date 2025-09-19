@@ -20,11 +20,11 @@
 ---
 
 ## 💼 Professional Experience
-- 💻 **Internship at PT Botika Teknologi Indonesia, Yogyakarta**  
+- 💻 **Internship as Fullstack Developer at PT Botika Teknologi Indonesia, Yogyakarta**  
   _June - November (6 months, during 12th grade)_  
   Worked on AI chatbot & web-related projects.  
 
-- 🖥️ **Software Developer at PT Smartelco Solusi Teknologi, Sokaraja**  
+- 🖥️ **Fullstack Developer at PT Smartelco Solusi Teknologi, Sokaraja**  
   _June 2025 - Present_  
   Building and maintaining internal tools & scalable web applications.  
 
